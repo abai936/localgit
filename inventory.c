@@ -2,6 +2,8 @@
 #include <string.h>
 #include <unistd.h>
 
+// This program stores the inventory list for an electronics project
+
 struct Component
 {
     char name[30];
